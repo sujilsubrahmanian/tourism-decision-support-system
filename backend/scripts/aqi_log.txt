@@ -1,0 +1,10 @@
+Fetching AQI for 8 locations...
+  Saved AQI for Munnar
+  Saved AQI for Taj Mahal
+  Saved AQI for Jaisalmer
+  Failed for Cherrapunji: AQICN returned status: nope
+  Saved AQI for India Gate
+  Saved AQI for Athirappilly Falls
+  Saved AQI for Alleppey
+  Saved AQI for Mysore Palace
+Done.

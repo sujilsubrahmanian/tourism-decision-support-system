@@ -1,0 +1,12 @@
+URL: https://nvyotoyfvggsdirrirth.supabase.co
+KEY: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im52eW90b3lmdmdnc2RpcnJpcnRoIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODgzNDE1MzQsImV4cCI6MjEwMzkxNzUzNH0.CVrS_hfcsmxHhgaIvPPMUAzK6udGa0J8H2IV_123NYs
+Fetching weather for 8 locations...
+  Saved weather for Munnar
+  Saved weather for Taj Mahal
+  Saved weather for Jaisalmer
+  Saved weather for Cherrapunji
+  Saved weather for India Gate
+  Saved weather for Athirappilly Falls
+  Saved weather for Alleppey
+  Saved weather for Mysore Palace
+Done.
