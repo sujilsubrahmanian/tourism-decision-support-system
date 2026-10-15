@@ -1,0 +1,9 @@
+id,name,state,district,category,latitude,longitude,created_at
+1,Munnar,Kerala,Idukki,hill_station,10.0889,77.0595,2026-09-02T10:46:23.885073
+2,Taj Mahal,Uttar Pradesh,Agra,monument,27.1751,78.0421,2026-09-02T10:48:18.17469
+3,Jaisalmer,Rajasthan,Jaisalmer,desert,26.9157,70.9083,2026-09-02T10:49:40.004589
+4,Cherrapunji,Meghalaya,East Khasi Hills,waterfall,25.2702,91.7323,2026-09-02T10:52:17.955777
+5,India Gate,Delhi,New Delhi,city,28.6129,77.2295,2026-09-02T10:53:44.481873
+6,Athirappilly Falls,Kerala,Thrissur,waterfall,10.2851,76.5697,2026-09-02T10:55:09.905561
+7,Alleppey,Kerala,Alappuzha,backwater,9.4981,76.3388,2026-09-02T10:56:20.590735
+8,Mysore Palace,Karnataka,Mysuru,monument,12.3052,76.6552,2026-09-02T10:57:36.365063

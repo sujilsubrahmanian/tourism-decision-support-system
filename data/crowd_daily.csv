@@ -1,0 +1,9 @@
+id,location_id,date,search_interest_score,day_of_week,is_holiday,collected_at
+1,1,2026-09-05,90,Saturday,False,2026-09-05T17:18:33.279319
+2,2,2026-09-05,70,Saturday,False,2026-09-05T17:18:39.589509
+3,3,2026-09-05,93,Saturday,False,2026-09-05T17:18:46.163864
+4,4,2026-09-05,57,Saturday,False,2026-09-05T17:18:52.608373
+5,5,2026-09-05,65,Saturday,False,2026-09-05T17:18:58.967642
+6,6,2026-09-05,0,Saturday,False,2026-09-05T17:19:05.626602
+7,7,2026-09-05,51,Saturday,False,2026-09-05T17:19:12.28846
+8,8,2026-09-05,69,Saturday,False,2026-09-05T17:19:18.935302
