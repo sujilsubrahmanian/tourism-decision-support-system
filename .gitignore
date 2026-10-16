@@ -4,3 +4,4 @@ venv/
 *.pyc
 node_modules/
 .DS_Store
+*_log.txt
