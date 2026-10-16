@@ -34,8 +34,9 @@ if __name__ == "__main__":
     data_dir = Path(__file__).resolve().parent.parent.parent / "data"
     data_dir.mkdir(exist_ok=True)
 
-    for name in ["locations", "weather_archive", "weather_historical",
-                 "weather_daily", "air_quality_daily", "crowd_daily"]:
+    for name in ["locations", "weather_archive", "air_quality_archive",
+                 "crowd_weekly", "weather_historical", "weather_daily",
+                 "air_quality_daily", "crowd_daily"]:
         df = fetch_table(name)
         df.to_csv(data_dir / f"{name}.csv", index=False)
         print(f"{name}: {len(df)} rows saved")
