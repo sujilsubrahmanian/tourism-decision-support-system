@@ -1,0 +1,9 @@
+destination,news_count,risk_score,risk_level,highest_severity,risk_categories,latest_report
+India Gate,3,46.46,High,2,security,2026-10-15
+Munnar,1,15.3,Low,2,security,2026-10-08
+Alleppey,0,0.0,No verified news,0,None,
+Athirappilly Falls,0,0.0,No verified news,0,None,
+Cherrapunji,0,0.0,No verified news,0,None,
+Jaisalmer,0,0.0,No verified news,0,None,
+Mysore Palace,0,0.0,No verified news,0,None,
+Taj Mahal,0,0.0,No verified news,0,None,
